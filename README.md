@@ -204,6 +204,6 @@ This keeps the API **stateless**, secure, and user-friendly.
 
 ## License
 
-(MIT/Apache-2.0).
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
