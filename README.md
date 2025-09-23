@@ -4,8 +4,8 @@ A production-minded, full-stack system for managing students, teachers, classes 
 
 > Code lives in separate repositories:
 >
-> * **Android Client (Java 17):** *link to Android repo*
-> * **Backend API (Spring Boot):** *link to backend repo*
+> * **Android Client (Java 17):** <https://github.com/ahmadyardimli/student-management-system-android-app>
+> * **Backend API (Spring Boot):** <https://github.com/ahmadyardimli/student-management-system-spring-boot-backend>
 >
 > This repo is the **home for docs**, diagrams, and project coordination.
 
